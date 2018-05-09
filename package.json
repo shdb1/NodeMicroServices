@@ -1,0 +1,26 @@
+{
+  "name": "nodemicroservice",
+  "version": "1.0.0",
+  "description": "node micro service",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shdb1/NodeMicroServices.git"
+  },
+  "keywords": [
+    "nodemicroservice"
+  ],
+  "author": "mohammad shadab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shdb1/NodeMicroServices/issues"
+  },
+  "homepage": "https://github.com/shdb1/NodeMicroServices#readme",
+  "dependencies": {
+    "micro": "^9.3.0"
+  }
+}
